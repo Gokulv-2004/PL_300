@@ -36,25 +36,25 @@ The descriptions above summarize the learning activities shown in the report. Th
 
 ### Overview
 
-![Power BI report overview showing sales trend, category visuals, and region filters](PL_300_images/overview.png)
+![Power BI report overview showing sales trend, category visuals, and region filters](overview.png)
 
 ### Profit analysis
 
-![Profit page with yearly orders, sales, costs, profit, and profit margin](PL_300_images/profit.png)
+![Profit page with yearly orders, sales, costs, profit, and profit margin](profit.png)
 
 ### Product detail
 
-![Product detail page with product category filter and sales metrics](PL_300_images/product-detail.png)
+![Product detail page with product category filter and sales metrics](product-detail.png)
 
 ### Forecast
 
-![Forecast page showing historical and projected sales over time](PL_300_images/forecast.png)
+![Forecast page showing historical and projected sales over time](forecast.png)
 
 ## Files
 
 - `Lab_07_done.pbix` - Power BI report file.
 - `README.md` - project overview and learning notes.
-- `PL_300_images/` - screenshots embedded in this README.
+- `forecast,overview,product-Detail,profit` - screenshots embedded in this README.
 
 ## Guidance and attribution
 
